@@ -13,7 +13,7 @@
   --second-background-color: #f5f4fa;
   --dark-background-color: #2f303a;
   --accent-color: #2196f3;
-  --opasity-color: rgba(255, 255, 255, 0.6);
+  --opasity-white-color: rgba(255, 255, 255, 0.6);
 }
 
 body {
@@ -145,7 +145,7 @@ address {
   color: var(--primary-white-color);
 }
 .f-mail-tel {
-  color: var(--opasity-color);
+  color: var(--opasity-white-color);
   text-decoration: none;
 }
 .f-mail-tel:hover,
